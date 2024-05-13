@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Primary Projects
 
 [Eye-Tracking In People With Psychosis](/eyeTrackingPsychosis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project1.png?raw=true"/>
 
 ---
 [Modeling Neural Data To Predict Viewing Conditions](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Smallscale Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
