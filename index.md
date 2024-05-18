@@ -2,9 +2,12 @@
 
 ---
 
-### Primary Projects
+### Unocovering biomarkers of psychosis
 
 [Eye-Tracking In People With Psychosis](/eyeTrackingPsychosis)
+
+<p>Example text</p>
+
 <img src="images/project1.png?raw=true"/>
 
 ---
