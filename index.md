@@ -8,7 +8,7 @@
 
 <p>Example text</p>
 
-<img src="images/project1.png?raw=true"/>
+<img src="images/project1.png?raw=true" width="200"/>
 
 ---
 [Modeling Neural Data To Predict Viewing Conditions](/pdf/sample_presentation.pdf)
