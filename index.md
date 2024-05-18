@@ -17,7 +17,7 @@
 
 <p></p>
 
-<img src="images/project2.png?raw=true"/>
+<img src="images/project2.png?raw=true" width="250"/>
 
 ---
 
