@@ -8,6 +8,8 @@
 
 <img src="images/bistableExamples.png?raw=true" width="400"/>
 
+---
+
 [Eye-Tracking In People With Psychosis](https://github.com/kkillebrew/SFM/tree/main/EyeTracking)
 
 <p>Eyetracking during visual tasks is one method of differentiating individuals with psychosis from healthy controls. Individuals with psychosis show greater irregularities in both amount of eye movements and blinks and can be reliably predicted based on these numbers. Another predictor of psychosis is pupil dilation which is often attributed to attentional capture which is known to be reduced in psychosis. In this project I used an inverse correlation analysis to directly examine probabilities of increased pupil dilation in response to reported changes in perception and attentional capture in people with psychosis and healthy controls.</p>
@@ -15,6 +17,7 @@
 <img src="images/project1.png?raw=true" width="200"/>
 
 ---
+
 [Modeling Neural Data To Predict Viewing Conditions](https://github.com/kkillebrew/SFM/tree/main/modeling)
 
 <p>Psychotic individuals show a variety of visual abnormalities and processing deficits which are, in part, responsible for positive psychotic symptoms, such as delusions and hallucinations. These can occur through a wide variety of neural abnormalities, such as impaired attentional allocation or and overall impairment of suppressive mechanisms. In this project, in order to test how impairments in a wide variety of possible neural functions may affect visual processing I modeled the neural processes involved in bi-stable perception using a divisive normalization model. This model utilizes two layers, in which nodes at each layer normalize activity of each other by the average activity within that layer. This allows for the use and manipulation of neural factors, such as attention or normalization, to be tested on the overall outcome on perception. I found that of the factors tested, attention seems to play the largest role in predicting similar perceptual outcomes to that of psychotic individuals.</p>
@@ -28,6 +31,8 @@
 <p>Understanding how people perceive and understand visualized data (aka graphs and plots) is key to creating easily understandable and interpretable data visualizations. A commonly overlooked aspect of perception that highly affects data visualization is ensemble encoding, the process by which people quickly and efficiently extract high level summary information from perceptual input. For example, when presented with an image of a group of people viewers are able almost immediately extract high level group information, such as average viewing direction, heading direction, expression (happy vs sad), location within the image, size, and skin tone (color) at a much more accurate rate than if they were to try to extract information from a single person. This phenomenon also affects viewing data visualizations. For example, in a scatter plot perception of the position of individual data points can be affected by the perception of the average location of all the data points. Thus skewing the perceived location of the data points towards the average location. Therefor, understanding how these biases affect perception is crucial to understanding how to better create effect data visualizations. Image recreated from Whitney & Leib, 2018.</p>
 
 <img src="images/ensembleExamples.png?raw=true" width="350"/>
+
+---
 
 [Perception Of Group Characteristics Affects Perception Of Individual Items](https://github.com/kkillebrew/EnsembleEncoding)
 
