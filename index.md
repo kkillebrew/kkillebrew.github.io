@@ -21,14 +21,14 @@
 
 ---
 
-### Understanding visual biases in when viewing data
+### Understanding visual biases when viewing data
 
 []
 
 ---
 
 
-### Smallscale Projects
+<!---### Smallscale Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -37,6 +37,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+-->
 
 
 
